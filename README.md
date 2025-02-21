@@ -16,9 +16,6 @@
 ### 💡 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=UltiMorse&show_icons=true&theme=tokyonight)  
 
-### 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=UltiMorse&theme=tokyonight&hide_border=true)  
-
 ### 📊 GitHub Activity Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UltiMorse&theme=tokyo-night)
 
