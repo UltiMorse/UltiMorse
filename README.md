@@ -9,9 +9,7 @@
 - 🏆 Currently participating in **AtCoder**　using **C++** ([My Profile](https://atcoder.jp/users/UltiMorse))
 
 ### 📩 Contact Me  
-- ✉️ Email: ultimorse@gmail.com
-- 💬 Twitter: [@UltiMorse](https://twitter.com/UltiMorse)  
-- 🏡 Portfolio: [.com](preparing now)  
+- ✉️ Email: 24t2162b@shinshu-u.ac.jp
 
 ### 💡 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=UltiMorse&show_icons=true&theme=tokyonight)  
