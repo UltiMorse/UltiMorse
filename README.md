@@ -11,8 +11,8 @@
 ### 📩 Contact Me  
 - ✉️ Email: ultimorse@gmail.com
 
-### 💡 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=UltiMorse&show_icons=true&theme=tokyonight)  
+### 💡 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs?username=ultimorse&show_icons=true&locale=en&layout=compact)
 
 ### 📊 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UltiMorse&theme=tokyo-night)
