@@ -12,7 +12,7 @@
 - ✉️ Email: ultimorse@gmail.com
 
 ### 💡 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs?username=ultimorse&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=UltiMorse&show_icons=true&locale=en&layout=compact)
 
 ### 📊 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UltiMorse&theme=tokyo-night)
