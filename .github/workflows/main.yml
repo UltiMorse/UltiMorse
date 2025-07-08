@@ -43,7 +43,3 @@ jobs:
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         base: ""
         plugin_achievements: yes
-        plugin_achievements_display: compact
-        plugin_achievements_threshold: B
-        plugin_achievements_ignored: octonaut
-        plugin_achievements_limit: 6
