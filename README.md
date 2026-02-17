@@ -21,11 +21,3 @@
     <img alt="profile 3d contrib" src="profile-3d-contrib/profile-season-animate.svg" width="700" />
   </picture>
 </p>
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-    <source media="(prefers-color-scheme: dark)" srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-    <img alt="achievements" src="output/metrics.plugin.achievements.compact.svg" width="400" />
-  </picture>
-</p>
